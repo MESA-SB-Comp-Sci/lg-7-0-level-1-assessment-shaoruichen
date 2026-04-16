@@ -36,12 +36,15 @@ p {
 }
 
 img {
-    width: 800px;
+    width: 50%;
     display: block;
     margin-bottom: 16px;
 }
 
 .list-styles {
-    font-size: 16px;
+    font-size: 1rem;
     color: #555;
+}
+main{
+    height: 100%;
 }
